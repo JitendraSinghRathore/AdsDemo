@@ -27,6 +27,8 @@ public class BlankFragment extends Fragment {
     private RecyclerView.Adapter mAdapter;
     private RecyclerView.LayoutManager mLayoutManager;
 
+    // TODO: 13/9/19 New Data
+
 
     //ANDROICFF
     @Override
